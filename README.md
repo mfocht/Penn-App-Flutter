@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# phs_mobile
-
-Rewrite of the Penn App using the Flutter SDK
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-=======
 # Penn-App-Flutter
 <p> A complete rewrite of the Penn High School App using the new Flutter sdk. <br> <a href="https://github.com/rileyclauss/PHSMobile"> Original source.</a> </p>
 <h1>The Penn High School Android App </h1>
